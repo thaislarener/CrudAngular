@@ -1,0 +1,19 @@
+.sidenav{
+    background-color: #582097;
+    width: 200px;
+}
+
+/* Muda a cor da letra */
+.sidenav a{ 
+    color: #fff;
+}
+
+/* Deixa um espaço entre o ícone e o texto */
+.sidenav i{
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #FFF;
+}
